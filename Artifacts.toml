@@ -1,143 +1,143 @@
 [[jq]]
 arch = "aarch64"
-git-tree-sha1 = "56036e01b55fe3544be501495bc0fa47defd26c0"
+git-tree-sha1 = "1b969f17a833a1ed29dc536932cd09b006f167cb"
 os = "macos"
 
     [[jq.download]]
-    sha256 = "311a887803d943711e71cb8c1681d70d2a7f999a02aa989b4324a04f9ca859f1"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "c29100bb8c17776dfb077e4fb7a97400fe7797e7789b7a8c691206cdf8859d41"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.aarch64-apple-darwin.tar.gz"
 [[jq]]
 arch = "aarch64"
-git-tree-sha1 = "e4467654a5efc8379c03081939751c23fa96743f"
+git-tree-sha1 = "e6ba06cf01bc66eab23c696a49b4d806ce4d7a2d"
 libc = "glibc"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "5e6a43ac4067f8d6c38117dab9c6be0d7da10e55cab0cc05d064129eb07cd9d7"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "8c63f37fbc95cea9ef02aad6e31d24806056b3c6285720aa210fffac1d48e2f0"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.aarch64-linux-gnu.tar.gz"
 [[jq]]
 arch = "aarch64"
-git-tree-sha1 = "426f2b27e6ab26ca7eec08e02858a4e94a351155"
+git-tree-sha1 = "8e92e75f4daf2bf4f58742b350dfe3cb7aabc8c4"
 libc = "musl"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "e8e09c2bf3b6298456bc31e9e5c94ad58b70e838f0531d04b9d791355565a4cd"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.aarch64-linux-musl.tar.gz"
+    sha256 = "88d89685ce34ae98f093c2d2f3e9a2f5c3de9528a8cb6cce08443f33bcbd63e0"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.aarch64-linux-musl.tar.gz"
 [[jq]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6885e967031d472c448e719f0e7773dc43a7d3dc"
+git-tree-sha1 = "471d2fc65fa4261a79fa180d8203eb5c3d857267"
 libc = "glibc"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "e243e17ce4116b4b913ab8bcba8575cb605894c1dc878f54780d2ce98ef2ed38"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "6ebc30096d6eef2b9ef4685c59716d55f9f3721ec907c08801e461a14fb9ba32"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.armv6l-linux-gnueabihf.tar.gz"
 [[jq]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "91f45e16c775b6c490249b3fd4bb1bcffada18ea"
+git-tree-sha1 = "aa1d1a3da031223035c3d60029b9cae610f6bcf0"
 libc = "musl"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "6de221cb2c61fa8a0edee4a0e2151215eac74cd024fe02aaa8ab6d75f8118d57"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "30b12b86e7879960e8058251f2b2004335b2e1b3df10e35b509608ee767dce8d"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.armv6l-linux-musleabihf.tar.gz"
 [[jq]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1ac82e9562f69b7803dec0948f5acbaa2410778c"
+git-tree-sha1 = "c16d6bb0b23a355049d4c5db8bbe3a542f3e7e75"
 libc = "glibc"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "f238d6a9a76df8ad5e6ab304a1d333f5a9946a80599c5b38b0c74dd2a67ded9a"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "0507dc8c7b5c7976993b09c88e587f2ab182ffc889536da03f1fb78686648d14"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.armv7l-linux-gnueabihf.tar.gz"
 [[jq]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "707eafc1661009173966c61b5cb59ccb25621e71"
+git-tree-sha1 = "f278494d9ef68c351e4890408b07a64328f77713"
 libc = "musl"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "bac421cf95e5defd4efeb9879ed1494f208d5342b25c0760e59330a5e01bdcaf"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "d56ff8f42c5983803decfa75ffce9501eab1773d49b67fc4471647850f678ab4"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.armv7l-linux-musleabihf.tar.gz"
 [[jq]]
 arch = "i686"
-git-tree-sha1 = "fb13eef17b2a4bf0e8d711ce98c3b46d42ce238e"
+git-tree-sha1 = "db0e71d5ae2b072826def6824f6681556238f757"
 libc = "glibc"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "ddca12dcf08670fab152ece3d59e339aeab21f90c430f555e08b42710e41fa07"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.i686-linux-gnu.tar.gz"
+    sha256 = "1efc567da2b286b1d26af4b85708c790ae81125738fcca45f6f67863d2bc0937"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.i686-linux-gnu.tar.gz"
 [[jq]]
 arch = "i686"
-git-tree-sha1 = "03aeb246d86424afac1ebead2267199376a11815"
+git-tree-sha1 = "f144ae556d452256bbc761d667dcf3e53ad89f2b"
 libc = "musl"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "5aff50e8d5807dab850873a79ce71b0364c73295d7d2fa9950a4a040052028f1"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.i686-linux-musl.tar.gz"
+    sha256 = "fc9a867fb315d00bd2b129a6d9d639f6d67aa8c8083faf03f230cccdd603225e"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.i686-linux-musl.tar.gz"
 [[jq]]
 arch = "i686"
-git-tree-sha1 = "6cdb3547942f19aeb968f50a5f49631f8dd1b675"
+git-tree-sha1 = "a0d3e4567012b8cb62e029994f2dad92c73192c0"
 os = "windows"
 
     [[jq.download]]
-    sha256 = "f39a0438e9e7740655bb73641d3df4f75edb3244bb0ab36e1ff6eacd3cd1663a"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.i686-w64-mingw32.tar.gz"
+    sha256 = "85c2f326df660e69a7a1b19b28f601fb615b1e090c86a359c11cc0732818398b"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.i686-w64-mingw32.tar.gz"
 [[jq]]
 arch = "powerpc64le"
-git-tree-sha1 = "a9ec8d48c124b483f9295ff2d89627e03f6804b3"
+git-tree-sha1 = "8c0e2b3536b5b1ec592b00e5f647f0fc682099f1"
 libc = "glibc"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "55a1cf5abc99a47b89e5c5d6591037f9a2581926a2ba487929ee61ea87aab6a7"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2d21b415e94b268c9df902e8ae99d7c286945624e4897a5a0d3931ccba428e9e"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.powerpc64le-linux-gnu.tar.gz"
 [[jq]]
 arch = "x86_64"
-git-tree-sha1 = "130019044f79fefb38a689fe46f40d40738fb1a1"
+git-tree-sha1 = "76534e4d82b8873694db5cf6f25e294f037ba742"
 os = "macos"
 
     [[jq.download]]
-    sha256 = "c7437cf3c279ea8371be3c4a7bcc1045e211f033b0d8331dd8df50e48a2fbfff"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "70095e294168f643daa8cbaf1f944784b1623c78444d5604b03eb0d7e19887b8"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.x86_64-apple-darwin.tar.gz"
 [[jq]]
 arch = "x86_64"
-git-tree-sha1 = "b1c3df350f51da252793033363f8f21546e754a4"
+git-tree-sha1 = "1062035f1811ac5451581a1f05f8af866917343c"
 libc = "glibc"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "9fffaa98621a69a2a69fae87fd4a385e33281832ac08a9fa69a35b9b71379408"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "28f3692a079561bfc988b6966f15e5880f971529b4a160be44bbe5d70e4e0c4c"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.x86_64-linux-gnu.tar.gz"
 [[jq]]
 arch = "x86_64"
-git-tree-sha1 = "253bdfe8b5ea101eb1af3517f83c782eb7664220"
+git-tree-sha1 = "b4f17c70b57de92f0353e947001c518bcbb85982"
 libc = "musl"
 os = "linux"
 
     [[jq.download]]
-    sha256 = "765785652c91e694b6c634226753c03926e1d8a0f55d6610e90cf2b4a5ab2007"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.x86_64-linux-musl.tar.gz"
+    sha256 = "01642d7896f59a9b2df5d17211c8136e84c7c9225a0214c41e894cda28192b64"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.x86_64-linux-musl.tar.gz"
 [[jq]]
 arch = "x86_64"
-git-tree-sha1 = "c93e8f8f194f47d470e1aca216295f80af8c8513"
+git-tree-sha1 = "8d87cd8ee15b3cca01160a5a7e01d34a6123ecc1"
 os = "freebsd"
 
     [[jq.download]]
-    sha256 = "6f872d656ee68a64d28345076963137a17d35b62555a5093f95398c6c138bae3"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4f1fb7e0060618e7af7943ddea94ad5c52fc578beb6f013412dcfe72585ba178"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.x86_64-unknown-freebsd.tar.gz"
 [[jq]]
 arch = "x86_64"
-git-tree-sha1 = "374407e2ba9e635ac98de46534aefacc2e3d90e2"
+git-tree-sha1 = "8c3936dd362bbe33eaa161962ff7526d9238886c"
 os = "windows"
 
     [[jq.download]]
-    sha256 = "1a668da4c2993ae90a635b5b11760e727a5540ade54b45f9f6f4f05d15780d5f"
-    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.6.0+0/jq.v1.6.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "1c6606c9fa1e28999fc19787671a1ca2acb7a3bf580da4dcf7c96b479c5d692e"
+    url = "https://github.com/JuliaBinaryWrappers/jq_jll.jl/releases/download/jq-v1.7.1+0/jq.v1.7.1.x86_64-w64-mingw32.tar.gz"
